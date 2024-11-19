@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./ASTRAL SITES.gif" alt="ASTRAL SITES" style="width: 100%; height: 100%;">
+</p>
+
 # Astral Sites
 
 **Astral Sites** is a web development agency specializing in creating scalable and customized digital solutions. We focus on delivering high-quality web applications and websites that are optimized for performance and user experience, applying best development practices, including **Clean Architecture**.
